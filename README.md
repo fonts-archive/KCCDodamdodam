@@ -32,7 +32,7 @@ font-face
 
 ```
 @font-face {
-    font-family: 'KCC Eunyoung';
+    font-family: 'KCC Dodamdodam';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
