@@ -15,7 +15,7 @@ font-family: 'KCC Dodamdodam';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCDodamdodam/KCCDodamdodam.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCDodamdodam/KCCDodamdodam.css" type="text/css"/>
 ```
 
 &nbsp;
