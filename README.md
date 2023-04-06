@@ -36,7 +36,9 @@ font-face
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCDodamdodam/KCCDodamdodam.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCDodamdodam/KCCDodamdodam.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCDodamdodam/KCCDodamdodam.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCDodamdodam/KCCDodamdodam.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCDodamdodam/KCCDodamdodam.ttf') format('truetype');
 }
 ```
